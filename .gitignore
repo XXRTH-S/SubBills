@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.playwright-cli/
+output/
+preview-mobile.png
+subs-export*.json
+subs-recovery*.json
